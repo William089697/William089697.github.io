@@ -30,7 +30,7 @@
             </li>
             <li class="nav-item">
               
-            </li>
+              </li>
           </ul>
         </nav>
         
